@@ -1,0 +1,16 @@
+.icon-customized {
+    width: 30px!important;
+    height: 30px!important;
+}
+
+.my-custom-card {
+    border: 1px solid black!important;
+    padding: 20px;
+    margin: 10px!important;
+}
+
+.my-custom-card:hover {
+    cursor: pointer;
+    padding: 25px;
+    border: none!important;
+}

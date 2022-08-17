@@ -1,0 +1,11 @@
+.modal-inputs {
+  display: block;
+  margin-top: 10px;
+  justify-content: space-between;
+}
+
+.modal-inputs input {
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin: 10px;
+}

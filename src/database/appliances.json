@@ -1,0 +1,15 @@
+{
+    "appliances": [
+        {
+            "id": 1,
+            "name": "foco",
+            "energy": 3, 
+            "categoryId": 1
+        },
+        {
+            "id": 2,
+            "name": "estufa",
+            "categoryId": 2
+        }
+    ]
+}

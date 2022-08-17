@@ -1,0 +1,29 @@
+.cards-grid {
+    display: grid; 
+    grid-template-columns: repeat(auto-fill, 300px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+}
+
+.home-header {
+    margin-left: 50px;
+}
+
+.home-add {
+    display: block;
+    justify-content: center;
+}
+
+.resultados {
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid blue;
+}
+
+@media (max-width: 560px) {
+    .cards-grid {
+        grid-template-columns: 100%;
+    }
+}
